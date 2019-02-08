@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
 public class TestSubKeyFile {
 
 	String workingDir = System.getProperty("user.dir");
-	File file = new File(workingDir + "\\api_key.txt");
+	File file = new File(workingDir + "/api_key.txt");
 	
 	// Test for api_key.txt is in project directory
 	@Test
