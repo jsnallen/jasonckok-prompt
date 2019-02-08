@@ -1,4 +1,4 @@
-# Fluent - The Prompt [![Build Status](https://travis-ci.org/jasonckok/jasonckok-prompt.svg?branch=master)](https://travis-ci.org/jasonckok/jasonckok-prompt)
+# The Prompt [![Build Status](https://travis-ci.org/jasonckok/jasonckok-prompt.svg?branch=master)](https://travis-ci.org/jasonckok/jasonckok-prompt)
 
 A Maven program that interacts with Bing News Search API and displays the 20 latest World News Headlines to the user.
 The program also display a tally of the 20 latest headline's news providers.
@@ -52,6 +52,7 @@ You should get the following output in the console:
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [Travis CI](https://travis-ci.org) - Continuous Integration/Delivery
 
 ## Tools Used
 
