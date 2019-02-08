@@ -1,0 +1,11 @@
+# Eclipse settings
+/.settings/*
+
+# Maven Status Folder
+/target/maven-status/*
+
+# Surefire Reports
+/target/surefire-reports/*
+
+# META-INF
+/target/classes/*
