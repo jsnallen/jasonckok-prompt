@@ -32,7 +32,7 @@ public class prompt {
 	public static String readSubKeyFile () throws FileNotFoundException {
 		String workingDir = System.getProperty("user.dir");
 		
-		File file = new File(workingDir + "\\api_key.txt");
+		File file = new File(workingDir + "/api_key.txt");
 		Scanner sc = new Scanner(file);
 		
 		sc.useDelimiter("\\Z");
