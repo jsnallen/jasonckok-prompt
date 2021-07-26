@@ -1,7 +1,7 @@
 # The Prompt [![Build Status](https://travis-ci.org/jasonckok/jasonckok-prompt.svg?branch=master)](https://travis-ci.org/jasonckok/jasonckok-prompt)
 
-A Maven program that interacts with Bing News Search API and displays the 20 latest World News Headlines to the user.
-The program also display a tally of the 20 latest headline's news providers.
+A console app that interacts with [Bing News Search](https://www.microsoft.com/en-us/bing/apis/bing-news-search-api) API and displays the 20 latest World News Headlines to the user.
+The app also display a tally of the 20 latest headlines' news providers.
 
 ## Getting Started
 
